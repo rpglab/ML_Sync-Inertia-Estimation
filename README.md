@@ -1,4 +1,4 @@
-# ML_Sync-Inertia-Estimation
+# Learning-Assisted Inertia Estimation
 This set of codes implements our TIA paper "Machine Learning Assisted Inertia Estimation using Ambient Measurements". 
 
 
