@@ -17,6 +17,8 @@ This set of codes implements our TIA paper "Machine Learning Assisted Inertia Es
 The three excel files are too large to share them on Github. Instead, they are shared on Figshare, along with the raw simulation data. The download link is: 
 * https://figshare.com/articles/dataset/Raw_Dataset_for_IEEE_24-Bus_System_Freuqency_Dynamics_Measurements/23576769
 
+Matlab Simulink model that generates the data is available at: 
+* <a class="" href="/resources/IEEE-24bus-Sys_TimeDmnSim-Matlab/"  target="_blank">https://rpglab.github.io/resources/IEEE-24bus-Sys_TimeDmnSim-Matlab/</a>
 
 ## Power system test data:
 The test system used in this work is a modified IEEE 24-bus system: one area of the IEEE 73-bus system ("The IEEE Reliability Test System-1996. A report prepared by the Reliability Test System Task Force of the Application of Probability Methods Subcommittee" and link is <a class="" target="_blank" href="https://ieeexplore.ieee.org/document/780914">here</a>).
